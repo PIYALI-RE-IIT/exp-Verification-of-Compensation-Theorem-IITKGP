@@ -7,7 +7,7 @@
   <b>Discipline | <b> Electrical Engineering 
 :--|:--|
 <b> Lab | <b> **Analog Signals, Network and Measurement Laboratory Virtual Lab**
-<b> Experiment|     <b> **Verification of Compensation Theorem and Experiment 9**
+<b> Experiment|     <b> **Verification of Compensation Theorem and section A Experiment 9**
 
 
 <b>Name of Developer | <b> **Prof. Alok Kanti Deb**
